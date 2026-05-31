@@ -1,0 +1,6 @@
+{
+  "name": "Videx",
+  "description": "Aplicación Premium de Streaming estilo APK nativa de eventos en vivo, canales y películas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
